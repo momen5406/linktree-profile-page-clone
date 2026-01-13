@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Linktree Profile Page Clone] | Day [1]/30 Front-End Challenge
 
-## Getting Started
+![Project Screenshot](screenshot.png)
 
-First, run the development server:
+## 🚀 Live Demo
+>
+> **[View the Live Project Here](https://linktree-profile-page-clone.vercel.app/)**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧐 About
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is project **#[1]** of my 30-Day Front-End Challenge. The goal of this challenge is to build 30 projects in 30 days to master React/Next.js and modern CSS.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This specific project is a **[Linktree Profile Page Clone]** designed to [aggregate social media links in one mobile-friendly interface].
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+* **Framework:** [Next.js]
+* **Styling:** [Tailwind CSS]
+* **Deployment:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [Feature 1: Fully Responsive Design]
+* [Feature 2: Dynamic Social Links]
+* [Feature 3: Optimized Images with Next/Image]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 What I Learned
 
-## Deploy on Vercel
+* **[Concept 1]:** [How to configure 'next/image' for high-performance profile pictures.]
+* **[Concept 2]:** [Structuring data arrays to map through components instead of hardcoding links.]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Crafted with ❤️ by [Mo'men Hussein]
