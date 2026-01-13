@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-opacity: opacityPulse 5s ease-in-out infinite;
+
+  @keyframes opacityPulse {
+    0%, 100% {
+      opacity: 0.6;
+    }
+
+    50% {
+      opacity: 0.2;
+    }
+  }
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  @apply bg-gradient-to-br from-slate-950 via-purple-950 to-slate-950 text-white min-h-screen;
+}
